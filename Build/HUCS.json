@@ -1,0 +1,16 @@
+{
+"companyName": "b217",
+"productName": "HUCS",
+"productVersion": "0.1",
+"dataUrl": "HUCS.data.unityweb",
+"wasmCodeUrl": "HUCS.wasm.code.unityweb",
+"wasmFrameworkUrl": "HUCS.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#E8F9B3",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.10f1"
+}
